@@ -1,8 +1,0 @@
-Flask
-Flask-Cors
-torch
-opencv-python
-waitress
-pandas
-requests
-pillow
